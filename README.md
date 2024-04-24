@@ -1,14 +1,22 @@
-<h1 align="center"> Hi, I'm Lavanya
+<h1 align="left">Frontend Developer with Angular and ReactJS Skills
 </h1>
 <p align="left">
-Experienced front-end developer with eight years of expertise creating user-centric web interfaces. Proficient in HTML5, CSS3, SCSS, Bootstrap, JavaScript, and modern frameworks like React and Angular.
+Hello! I'm Lavanya, an experienced frontend web developer with over eight years of multinational company experience. I specialize in creating dynamic and user-friendly web applications using Angular and React frameworks.
+
+My journey in web development began over a decade ago, and since then, I have honed my skills to become proficient in building responsive and interactive interfaces that enhance user experience. I am passionate about leveraging the latest technologies and best practices to deliver high-quality solutions.
+
+Throughout my career, I have collaborated with cross-functional teams to develop scalable and maintainable web applications that meet the needs of clients and end-users. My attention to detail, problem-solving abilities, and dedication to continuous learning have enabled me to stay ahead in the ever-evolving field of frontend development.
+
+When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge with the developer community through blogs and tutorials. I thrive in environments that foster creativity, collaboration, and innovation, and I am always eager to take on new challenges.
+
+If you're looking for a frontend web developer who is passionate about creating exceptional digital experiences, I'd love to connect with you!
 </p>
 
 - 📝 I try to solve leetcode problems regularly.
 - 💬 Ask me about JavaScript, React, Angular.
 - 📄 More about my experiences on LinkedIn [www.linkedin.com/in/plavanya](www.linkedin.com/in/plavanya)
 
-<h3 align="left"> Languages and Tools: </h3>
+<h3 align="left"> Skillsets </h3>
 <p align="left"> 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
