@@ -2,15 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Lavanya </h1>
 <h3 align="center">
-Experienced front-end developer with eight years of expertise creating user-centric web interfaces. Proficient in HTML5, CSS3,Scss,Bootstrap,JavaScript, and modern frameworks like React and Angular</h3>
-
+Experienced front-end developer with eight years of expertise creating user-centric web interfaces. Proficient in HTML5, CSS3, SCSS, Bootstrap,JavaScript, and modern frameworks like React and Angular.</h3>
 
 - 📝 I try to solve leetcode problems regularly
-
 - 💬 Ask me about JavaScript, React, Angular
-
 - 📄 Know about my experiences on LinkedIn [www.linkedin.com/in/plavanya](www.linkedin.com/in/plavanya)
-
 
 
 
