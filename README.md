@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm lavanya Paramasivan</h1>
 <h3 align="center">
-Experienced front-end developer with 8 years of expertise creating user-centric web interfaces. Proficient in HTML5, CSS3,Scss,Bootstrap,JavaScript, and modern frameworks like React and Angular</h3>
+Experienced front-end developer with years of expertise creating user-centric web interfaces. Proficient in HTML5, CSS3,Scss,Bootstrap,JavaScript, and modern frameworks like React and Angular</h3>
 
 
 - 📝 I try to solve leetcode problems regularly
