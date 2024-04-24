@@ -4,9 +4,9 @@
 Experienced front-end developer with eight years of expertise creating user-centric web interfaces. Proficient in HTML5, CSS3, SCSS, Bootstrap, JavaScript, and modern frameworks like React and Angular.
 </p>
 
-- 📝 I try to solve leetcode problems regularly
-- 💬 Ask me about JavaScript, React, Angular
-- 📄 Know about my experiences on LinkedIn [www.linkedin.com/in/plavanya](www.linkedin.com/in/plavanya)
+- 📝 I try to solve leetcode problems regularly.
+- 💬 Ask me about JavaScript, React, Angular.
+- 📄 More about my experiences on LinkedIn [www.linkedin.com/in/plavanya](www.linkedin.com/in/plavanya)
 
 <h3 align="left"> Languages and Tools: </h3>
 <p align="left"> 
