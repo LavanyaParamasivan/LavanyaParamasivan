@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Lavanya </h1>
+<h1 align="center">Hi, I'm Lavanya </h1>
 <h3 align="center">
 Experienced front-end developer with eight years of expertise creating user-centric web interfaces. Proficient in HTML5, CSS3, SCSS, Bootstrap,JavaScript, and modern frameworks like React and Angular.</h3>
 
